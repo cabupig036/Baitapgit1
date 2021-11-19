@@ -14,5 +14,6 @@ int main()
 	cin >> phepToan;
 	//Xóa tính tích
 	system("pause");
+	//Cau19
 	return 0;
 }
