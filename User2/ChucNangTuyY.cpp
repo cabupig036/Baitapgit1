@@ -12,6 +12,8 @@ int main()
 	cin >> b;
 	cout << "Chon phep toan (-) ";
 	cin >> phepToan;
+	//tính tích
+	
 	system("pause");
 	return 0;
 }
