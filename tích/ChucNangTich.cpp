@@ -13,7 +13,7 @@ int main()
 	cout << "Chon phep toan (-) ";
 	cin >> phepToan;
 	//tính tích
-	
+	//2.0
 	system("pause");
 	return 0;
 }
