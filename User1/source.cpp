@@ -12,6 +12,7 @@ int main()
 	cin >> b;
 	cout << "Chon phep toan (+) ";
 	cin >> phepToan;
+	//Xóa tính tích
 	system("pause");
 	return 0;
 }
